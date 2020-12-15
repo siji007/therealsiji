@@ -4,11 +4,11 @@
  
   <img src="../img/TRS.jpg" class="w-24 " alt="" style="border-radius: 50%;">
     <!-- <div class="brand navbar-brand circleBrand bg-danger"><h4 class="pt-2 pl-1">TRS</h4></div> -->
-    <button class="navbar-toggler text-green-600" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon text-green-600"></span>
+    <button class="navbar-toggler bg-green-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon navbar-light"></span>
     </button>
 
-    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navItem navbar-nav ml-auto ">
         <!-- <li class="nav-item active">
           

@@ -16,7 +16,7 @@
 
             
         </div> -->
-        <div class="row justify-content-center mt-12 text-white ">
+        <div class="row justify-content-center mt-12 text-white p-2">
            
             <div class="max-w-sm rounded col-lg-4 col-sm-12 col-md-12  bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12 sm:mt-2 md:mt-2   rounded  bg-green-dark shadow-lg">
+            <div class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12 sm:mt-16 md:mt-16   rounded  bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Monster Vs Player Game</div>
@@ -50,7 +50,7 @@
 
         <!--Second Layout Projects -->
 
-        <div class="row justify-content-center mt-12 text-white">
+        <div class="row justify-content-center mt-12 text-white p-2">
            
             <div class="max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
@@ -83,6 +83,7 @@
                 </div>
             </div>  
         </div>
+    
 
 
 <!--Old Second Layout-->

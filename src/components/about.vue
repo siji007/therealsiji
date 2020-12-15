@@ -2,15 +2,15 @@
     <div class="content-container m-4">
     <div class="row">
         <div class="intro col-lg-7  col-md-12 col-sm-12">
-        <h1 class=" text-green-dark headerIntro" style="font-family: Lobster;" >Hi, I'm Oluwasijibomi Olaifa.</h1>
-        <p class="mt-3 intro text-white" style="font-family: Lobster; font-size:45px; text-align:justify;">
+        <h1 class=" text-green-dark " id="headerIntro" style="" >Hi,I'm Oluwasijibomi Olaifa.</h1>
+        <p id="introText" class="mt-3  text-white">
             I'm a Frontend developer and UI Designer based in Kwara State, Nigeria.I develop,design and build. <br>
             I'm interested in how technologies work
         </p>
         </div>
 
         <div style="margin-bottom:160px; " class=" col-lg-5  col-md-12 col-sm-12">
-        <img src="../img/myself.jpeg" class="introImg " style="max-width: 100%;
+        <img src="../img/myself.jpeg" id="introImage" class="introImg " style="max-width: 100%;
         background-size: cover;">
         </div>
         <!-- <img src="../img/halftone-object-publicdomainvectors.org.svg" alt=""> -->
@@ -699,7 +699,9 @@
         </div> -->
         
 
-       
+       <!-- <svg width="730" height="700">
+           <use v-bind="{'xlink:href':'/background.svg'}"/>
+       </svg> -->
         
 
     </div>
@@ -726,10 +728,19 @@ body{
     background-color:  #040f20;
 
 }
-.intro{
+/* .intro{
   font-family: Lobster;
   font-size: 50px;
   color: white;
+} */
+#introText{
+    font-family: Lobster; 
+    font-size:45px;
+    text-align:justify;
+
+}
+#headerIntro{
+font-family: Lobster;
 }
 .introImage {
     max-width: 100%;
@@ -747,18 +758,26 @@ body{
 .introImg{
     height:700px;
 }
-#image{
+/* #image{
     display: block;
     z-index: 1;
     top:120px;
     left: 185px;
     position: absolute;
    
-}
-#myImg{
+} */
+/* #myImg{
     height:500px;
     background-position: center;
     border-radius: 30%;
+} */
+@media (max-width: 900px){
+    #introImage {
+    max-width: 100%;
+    border-radius: 35px;
+}
 }
 </style>
-    
+<script>
+// import jquery from '../js/jquery.min.js'
+</script>
