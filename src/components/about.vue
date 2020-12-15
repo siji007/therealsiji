@@ -9,9 +9,8 @@
         </p>
         </div>
 
-        <div style="margin-bottom:160px; " class=" col-lg-5  col-md-12 col-sm-12">
-        <img src="../img/myself.jpeg" id="introImage" class="introImg " style="max-width: 100%;
-        background-size: cover;">
+        <div id="imageDiv" class=" col-lg-5  col-md-12 col-sm-12">
+        <img src="../img/myself.jpeg" id="introImage" class="">
         </div>
         <!-- <img src="../img/halftone-object-publicdomainvectors.org.svg" alt=""> -->
 
@@ -713,7 +712,7 @@
         Copyright 2020
     </footer> -->
     <div id="footer">
-        <footer class="p-4">
+        <footer class="p-2">
             <h1 class="text-center text-white text-3xl">&copy; 2020, TRS</h1>
         </footer>
     </div>
@@ -742,21 +741,30 @@ body{
 #headerIntro{
 font-family: Lobster;
 }
-.introImage {
+/* .introImage {
     max-width: 100%;
+} */
+#introImage{
+    background-size: cover;
+    max-width: 100%;
+    height: 700px;
+    margin-right: auto;
+    border-radius: 35px;
 }
 .intro h1 {
     font-family: Metal Mania;
-    font-size: 48px;
-    
+    font-size: 48px;  
 }
 
 .intro p {
-    font-family: Poppins;
+    /* font-family: Poppins; */
     font-size: 25px;
 }
 .introImg{
     height:700px;
+}
+#imageDiv{
+    margin-bottom: 70px;
 }
 /* #image{
     display: block;
@@ -771,10 +779,34 @@ font-family: Lobster;
     background-position: center;
     border-radius: 30%;
 } */
-@media (max-width: 900px){
+@media (max-width: 991px){
     #introImage {
     max-width: 100%;
     border-radius: 35px;
+    margin-top: 50px;
+    max-height:500px;
+}
+#introText{
+    font-family: Lobster; 
+    font-size:35px;
+    text-align:justify;
+
+}
+#headerIntro{
+font-family: Lobster;
+}
+.introImage {
+    max-width: 100%;
+    background-size: cover;
+}
+.intro h1 {
+    font-family: Metal Mania;
+    font-size: 48px;  
+}
+
+.intro p {
+    /* font-family: Poppins; */
+    font-size: 25px;
 }
 }
 </style>

@@ -13,6 +13,7 @@ import "@/assets/styles/main.css";
 
 import { routes } from './routes';
 import VueRouter from 'vue-router'
+import 'jquery'
 Vue.use(VueRouter);
 const router = new VueRouter({
     routes,

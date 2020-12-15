@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12 sm:mt-16 md:mt-16   rounded  bg-green-dark shadow-lg">
+            <div class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12 sm:mt-16 md:mt-16 rounded  bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Monster Vs Player Game</div>
