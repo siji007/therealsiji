@@ -1,10 +1,16 @@
 <template>
     <div class="container">
-        <h1 class="text-center textContact text-white mt-32">Contact me</h1>
-        <div class="display d-flex mr-auto ml-auto justify-center " style="margin-top:20px;">
-            <div><a href="#"><img  class="twitter" src="../img/face.png" alt=""></a></div>
-            <div><a href="#"><img  class="instagram" src="../img/insta.png" alt=""></a></div>
-            <div><a href="#"><img  class="twitter" src="../img/twitter.png" alt=""></a></div>
+        <div class="content">
+            <h1 class="text-center textContact text-white mt-32">Contact me</h1>
+            <div class="display d-flex mr-auto ml-auto justify-center " style="margin-top:20px;">
+                <div><a href="https://web.facebook.com/oluwasijibomi.olaifa"><img  class="facebook" src="../img/facebook.png" alt=""></a></div>
+            
+                <div><a href="http://twitter.com/Siji_Ibukun"><img  class="twitter ml-3" src="../img/twitter.png" alt=""></a></div>
+                <div><a href="https://github.com/siji007"><img  class="github ml-3" src="../img/github.png" alt=""></a></div>
+                <div><a href="https://linkedin.com/in/oluwasijibomi-olaifa"><img  class="linkedIn ml-3" src="../img/linkedin.png" alt=""></a></div>
+            </div>
+
+            
         </div>
 
         <!-- <div id="footer">
@@ -20,18 +26,21 @@
 
    @import url('../css/contact.css');
    .facebook{
-       width: 120px;
+       width: 90px;
        
        
    }
    .twitter{
-       width: 120px;
+       width: 90px;
        
       
    }
-   .instagram{
-       width: 120px;
-       
+  
+   .github{
+       width:90px;
+   }
+   .linkedIn{
+       width:90px;
    }
    .display, .textContact{
        /* position: absolute;
@@ -46,5 +55,12 @@
    .textContact{
        font-size: 90px;
        
+   }
+   .content{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -280px;
+    margin-left: -200px;
    }
 </style>
