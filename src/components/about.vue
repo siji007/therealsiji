@@ -5,7 +5,7 @@
         <h1 class=" text-green-dark " id="headerIntro" style="" >Hi,I'm Oluwasijibomi Olaifa.</h1>
         <p id="introText" class="mt-3  text-white">
             I'm a Frontend developer and UI Designer based in Kwara State, Nigeria.I develop,design and build. <br>
-            I'm interested in how technologies work
+            I'm interested in how technologies work and passionate about learning.
         </p>
         </div>
 
@@ -733,9 +733,10 @@ body{
   color: white;
 } */
 #introText{
-    font-family: Lobster; 
+    font-family:Lobster; 
     font-size:45px;
     text-align:justify;
+    
 
 }
 #headerIntro{

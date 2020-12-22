@@ -1,6 +1,6 @@
 <template>
     <div class="container ">
-        <h1 class="mt-3 text-center">Projects</h1>
+        <h1 class="mt-10 text-center">Projects</h1>
         <!-- <div class="row" style="background-color: #040f20;">
             <div class="col-6 col-lg-6 col-md-12 col-sm-12" style="background-color: #040f20;">
                 <div class="card" style="width:600px;">
@@ -16,9 +16,9 @@
 
             
         </div> -->
-        <div class="row justify-content-center mt-12 text-white p-2">
+        <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
-            <div class="max-w-sm rounded col-lg-4 col-sm-12 col-md-12  bg-green-dark shadow-lg">
+            <div class="max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12  bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Photo Search App</div>
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12 sm:mt-16 md:mt-16 rounded  bg-green-dark shadow-lg">
+            <div id="secondBox" class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12   rounded  bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Monster Vs Player Game</div>
@@ -50,7 +50,7 @@
 
         <!--Second Layout Projects -->
 
-        <div class="row justify-content-center mt-12 text-white p-2">
+        <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
             <div class="max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
@@ -67,19 +67,19 @@
                 </div>
             </div>
 
-            <div class="max-w-sm rounded col-lg-4 offset-lg-4 col-sm-12 col-md-12 sm:mt-2 md:mt-2  overflow-hidden bg-green-dark shadow-lg ">
-                <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
+            <div id="secondBox" class="max-w-sm rounded col-lg-4 offset-lg-4 col-sm-12 col-md-12   overflow-hidden bg-green-dark shadow-lg ">
+                <img class="w-full mt-4" src="../img/calculatorImg.png" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Vuejs Calculator </div>
                     <p class="text-gray-700 text-base">
-                      A simple game
+                      A simple calculator for performing simple arithmetics.
                     </p>
 
                     <h1>Tools Used:<small> HTML5,BOOTSTRAP & VUE JS</small></h1>
 
                 </div>
                 <div class="pt-4 pb-2">
-                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full">Show More</button></span>   
+                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://vuecalc.vercel.app/">Show More</a></button></span>   
                 </div>
             </div>  
         </div>
@@ -141,5 +141,18 @@
     h1{
         font-size: 30px;
         color:white;
+    }
+    @media(max-width:991px) {
+        /* #overallRowContainer{
+            padding-left: 45px;
+            padding-right: 45px;
+            padding-top: 45px;
+            padding-bottom: 45px;
+            
+        } */
+        #secondBox{
+            margin-top: 70px;
+        }
+        
     }
 </style>
