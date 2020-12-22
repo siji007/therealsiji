@@ -34,7 +34,7 @@
             </div>
 
             <div id="secondBox" class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12   rounded  bg-green-dark shadow-lg">
-                <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
+                <img class="w-full mt-4" src="../img/monsterSlayer.png" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Monster Vs Player Game</div>
                     <p class="text-gray-700 text-base">
@@ -43,7 +43,7 @@
                     <h1>Tools Used:<small> HTML5,BOOTSTRAP,JS & VUE JS</small></h1>
                 </div>
                 <div class=" pt-4 pb-2">
-                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full">Show More</button></span>   
+                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://monster-slay-game.vercel.app/">Show More</a></button></span>   
                 </div>
             </div>  
         </div>
