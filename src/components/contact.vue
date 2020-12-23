@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="content">
+        <div class="content p-2">
             <h1 class="text-center textContact text-white mt-32">Contact me</h1>
             <div class="display d-flex mr-auto ml-auto justify-center " style="margin-top:20px;">
                 <div><a href="https://web.facebook.com/oluwasijibomi.olaifa"><img  class="facebook" src="../img/facebook.png" alt=""></a></div>
@@ -27,13 +27,9 @@
    @import url('../css/contact.css');
    .facebook{
        width: 90px;
-       
-       
    }
    .twitter{
        width: 90px;
-       
-      
    }
   
    .github{
@@ -62,5 +58,20 @@
     left: 50%;
     margin-top: -280px;
     margin-left: -200px;
+   }
+   @media(max-width:991px){
+       .facebook{
+       width: 50px;
+   }
+   .twitter{
+       width: 50px;
+   }
+  
+   .github{
+       width:50px;
+   }
+   .linkedIn{
+       width:50px;
+   }
    }
 </style>
