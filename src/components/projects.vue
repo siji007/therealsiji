@@ -18,7 +18,7 @@
         </div> -->
         <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
-            <div class="max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12  bg-green-dark shadow-lg">
+            <div class="max-w-sm rounded projects overflow-hidden col-lg-4 col-sm-12 col-md-12  bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Photo Search App</div>
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div id="secondBox" class="max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12   rounded  bg-green-dark shadow-lg">
+            <div id="secondBox" class="projects max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12   rounded  bg-green-dark shadow-lg">
                 <img class="w-full mt-4" src="../img/monsterSlayer.png" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Monster Vs Player Game</div>
@@ -52,7 +52,7 @@
 
         <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
-            <div class="max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
+            <div class="projects max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
                 <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Movie Rating App</div>
@@ -67,7 +67,7 @@
                 </div>
             </div>
 
-            <div id="secondBox" class="max-w-sm rounded col-lg-4 offset-lg-4 col-sm-12 col-md-12   overflow-hidden bg-green-dark shadow-lg ">
+            <div id="secondBox" class="projects max-w-sm rounded col-lg-4 offset-lg-4 col-sm-12 col-md-12   overflow-hidden bg-green-dark shadow-lg ">
                 <img class="w-full mt-4" src="../img/calculatorImg.png" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Vuejs Calculator </div>
@@ -148,11 +148,25 @@
             padding-right: 45px;
             padding-top: 45px;
             padding-bottom: 45px;
-            
         } */
         #secondBox{
             margin-top: 70px;
         }
-        
     }
 </style>
+<script>
+import gsap from 'gsap'
+export default {
+    mounted(){
+        gsap.from('.projects',{
+            duration:1,
+            opacity:0,
+            ease:'power',
+            stagger:{
+                each:0.3,
+                from:'edges'
+            }
+        })
+    }
+}
+</script>

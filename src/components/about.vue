@@ -4,7 +4,7 @@
         <div class="intro col-lg-7  col-md-12 col-sm-12">
         <h1 class=" text-green-dark " id="headerIntro" style="" >Hi,I'm Oluwasijibomi Olaifa.</h1>
         <p id="introText" class="mt-3  text-white">
-            I'm a Frontend developer and UI Designer based in Kwara State, Nigeria.I develop,design and build. <br>
+            I'm a Frontend developer and UI Designer based in Lagos State, Nigeria.I develop,design and build. <br>
             I'm interested in how technologies work and passionate about learning.
         </p>
         </div>
