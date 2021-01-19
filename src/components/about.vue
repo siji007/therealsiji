@@ -738,8 +738,7 @@ html{
 #introText{
     font-family:Lobster; 
     font-size:45px;
-    text-align:justify;
-    
+    text-align: start;
 }
 #headerIntro{
 font-family: Lobster;
@@ -792,7 +791,8 @@ font-family: Lobster;
 #introText{
     font-family: Lobster; 
     font-size:35px;
-    text-align:justify
+    text-align: start;
+    
 }
 #headerIntro{
 font-family: Lobster;
