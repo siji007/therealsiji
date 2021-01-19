@@ -2,7 +2,7 @@
     <div class="content-container m-4">
     <div class="row">
         <div class="intro col-lg-7  col-md-12 col-sm-12">
-        <h1 class=" text-green-dark " id="headerIntro" style="" >Hi,I'm Oluwasijibomi Olaifa.</h1>
+        <h1 class=" text-green-dark " id="headerIntro" style="">Hi,I'm Oluwasijibomi Olaifa.</h1>
         <p id="introText" class="mt-3  text-white">
             I'm a Frontend developer and UI Designer based in Lagos State, Nigeria.I develop,design and build. <br>
             I'm interested in how technologies work and passionate about learning.
@@ -10,7 +10,7 @@
         </div>
 
         <div id="imageDiv" class=" col-lg-5  col-md-12 col-sm-12">
-        <img src="../img/myself.jpeg" id="introImage" class="">
+        <img src="../img/myself.jpeg" id="introImage" class="lg:float-right xl:float-right">
         </div>
         <!-- <img src="../img/halftone-object-publicdomainvectors.org.svg" alt=""> -->
 
@@ -727,6 +727,9 @@ body{
     background-color:  #040f20;
 
 }
+html{
+    box-sizing:border-box;
+}
 /* .intro{
   font-family: Lobster;
   font-size: 50px;
@@ -737,7 +740,6 @@ body{
     font-size:45px;
     text-align:justify;
     
-
 }
 #headerIntro{
 font-family: Lobster;
@@ -790,8 +792,7 @@ font-family: Lobster;
 #introText{
     font-family: Lobster; 
     font-size:35px;
-    text-align:justify;
-
+    text-align:justify
 }
 #headerIntro{
 font-family: Lobster;
@@ -804,7 +805,6 @@ font-family: Lobster;
     font-family: Metal Mania;
     font-size: 48px;  
 }
-
 .intro p {
     /* font-family: Poppins; */
     font-size: 25px;
