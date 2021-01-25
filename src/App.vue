@@ -19,7 +19,6 @@
   </div>
 </template>
 
-
 <script>
 
 import Header from './components/header'
@@ -31,7 +30,6 @@ export default {
   components: {
     appHeader: Header,
     // appContact: Contact,
-  
   },
   methods:{
     beforeEnter(el){
@@ -64,7 +62,6 @@ export default {
 .fade-leave-active{
   transition: opacity 2s ease-out;
 }
-
 .fade-leave-to{
   opacity:0;
 }
@@ -79,7 +76,4 @@ export default {
 </style>
 
 
-<style>
 
-
-</style>

@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container" style="">
         <div class="content p-2">
             <h1 class="text-center textContact text-white mt-32">Contact me</h1>
             <div class="display d-flex mr-auto ml-auto justify-center " style="margin-top:20px;">
@@ -52,13 +52,13 @@
        font-size: 90px;
        
    }
-   .content{
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -280px;
-    margin-left: -200px;
-   }
+   /* .content{
+    /* position: static; */
+    /* top: 100%;
+    left: 50%; */
+    /* margin-top: -280px;
+    margin-left: -200px;} */
+   
    @media(max-width:991px){
        .facebook{
        width: 50px;

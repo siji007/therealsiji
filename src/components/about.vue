@@ -2,15 +2,15 @@
     <div class="content-container m-4">
     <div class="row">
         <div class="intro col-lg-7  col-md-12 col-sm-12">
-        <h1 class=" text-green-dark " id="headerIntro" style="">Hi,I'm Oluwasijibomi Olaifa.</h1>
-        <p id="introText" class="mt-3  text-white">
-            I'm a Frontend developer and UI Designer based in Lagos State, Nigeria.I develop,design and build. <br>
-            I'm interested in how technologies work and passionate about learning.
-        </p>
-        </div>
+            <h1 class=" text-green-dark " id="headerIntro" style="">Hi,I'm Oluwasijibomi Olaifa.</h1>
+            <p id="introText" class="mt-3  text-white">
+                I'm a Frontend developer and UI Designer based in Lagos State, Nigeria.I develop,design and build. <br>
+                I'm interested in how technologies work and passionate about learning.
+            </p>
+            </div>
 
-        <div id="imageDiv" class=" col-lg-5  col-md-12 col-sm-12">
-        <img src="../img/myself.jpeg" id="introImage" class="lg:float-right xl:float-right">
+            <div id="imageDiv" class=" col-lg-5  col-md-12 col-sm-12">
+            <img src="../img/myself.jpeg" id="introImage" class="lg:float-right xl:float-right">
         </div>
         <!-- <img src="../img/halftone-object-publicdomainvectors.org.svg" alt=""> -->
 

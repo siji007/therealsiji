@@ -13,7 +13,7 @@ import "@/assets/styles/main.css";
 
 import { routes } from './routes';
 import VueRouter from 'vue-router'
-import 'jquery'
+// import 'jquery'
 Vue.use(VueRouter);
 const router = new VueRouter({
     routes,
@@ -24,5 +24,4 @@ Vue.config.productionTip = false
 new Vue({
     render: h => h(App),
     router
-
 }).$mount('#app')
