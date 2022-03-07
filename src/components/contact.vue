@@ -14,11 +14,11 @@
         </div>
 
         <!-- <div id="footer">
-        <footer class="p-4">
+        <footer class="p-4" style="margin-top:250px", "position:fixed">
             <h1 class="text-center text-white text-3xl">&copy; 2020, TRS.</h1>
         </footer>
-        </div> -->
-        
+        </div>
+         -->
 
     </div>
 </template>
@@ -46,7 +46,7 @@
        margin-left: -50%; */
        /* width: 100%;
        height: 100%; */
-       font-family: cursive;
+      font-family: Lobster;
    }
    .textContact{
        font-size: 90px;

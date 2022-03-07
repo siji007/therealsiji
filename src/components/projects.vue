@@ -1,6 +1,6 @@
 <template>
     <div class="container ">
-        <h1 class="mt-10 text-center">Projects</h1>
+        <h1 id="projectHeading" class="mt-10 text-center">Projects</h1>
         <!-- <div class="row" style="background-color: #040f20;">
             <div class="col-6 col-lg-6 col-md-12 col-sm-12" style="background-color: #040f20;">
                 <div class="card" style="width:600px;">
@@ -127,7 +127,7 @@
     </footer> -->
        <div id="footer">
         <footer class="p-4">
-            <h1 class="text-center text-white text-3xl">&copy;TRS,2020.</h1>
+            <h1 class="text-center text-white text-3xl">&copy;TRS,2022.</h1>
         </footer>
     </div>
     </div>
@@ -135,8 +135,11 @@
 
 
 <style scoped>
+#projectHeading{
+    font-family: Lobster;
+}
     h1{
-        font-size: 30px;
+        font-size: 35px;
         color:white;
     }
     @media(max-width:991px) {

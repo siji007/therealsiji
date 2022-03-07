@@ -714,7 +714,7 @@
         </footer> -->
         <div id="footer">
             <footer class="p-2">
-                <h1 class="text-center text-white text-3xl">&copy;TRS,2020.</h1>
+                <h1 class="text-center text-white text-3xl">&copy;TRS,2022.</h1>
             </footer>
         </div>
     </div>
@@ -813,5 +813,10 @@ font-family: Lobster;
 }
 </style>
 <script>
+// data() {
+//     return {
+        
+//     }
+// },
 // import jquery from '../js/jquery.min.js'
 </script>
