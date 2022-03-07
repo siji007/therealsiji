@@ -5,16 +5,14 @@
     @enter="enter"
     @leave="leave"
     :css="false"
-    
-    
     > -->
     <appHeader> </appHeader>
 
     <!-- </transition> -->
     <div>
-        <transition name="fade" mode="out-in" appear>
-          <router-view></router-view>
-        </transition>
+      <transition name="fade" mode="out-in" appear>
+        <router-view></router-view>
+      </transition>
     </div>
   </div>
 </template>
@@ -74,6 +72,3 @@ export default {
 }
 
 </style>
-
-
-

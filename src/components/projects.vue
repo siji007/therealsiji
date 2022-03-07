@@ -19,30 +19,30 @@
         <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
             <div class="max-w-sm rounded projects overflow-hidden col-lg-4 col-sm-12 col-md-12  bg-green-dark shadow-lg">
-                <img class="w-full mt-4" src="../img/musicScreen.png" alt="Sunset in the mountains">
+                <img class="w-full mt-4" src="../img/farmpics.png" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
-                    <div class="font-bold  mb-2 text-3xl">Music App</div>
+                    <div class="font-bold  mb-2 text-3xl">Farm websites</div>
                     <p class="text-gray-700 text-base mb-3">
-                        You get to play different music.
+                        Responsive farm website
                     </p>
-                    <h1>Tools Used:<small> HTML5,BOOTSTRAP,JS & VUEJS</small></h1>
+                    <h1>Tools Used:<small> HTML5,BOOTSTRAP,JS & REACTJS</small></h1>
                 </div>
                 <div class="pt-4 pb-2">
-                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://vue-music-app.vercel.app/" style="text-decoration:none;">Show More</a></button></span>    
+                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://farm-ng-ten.vercel.app/" style="text-decoration:none;">Show More</a></button></span>    
                 </div>
             </div>
 
             <div id="secondBox" class="projects max-w-sm col-lg-4 offset-lg-4 col-sm-12 col-md-12   rounded  bg-green-dark shadow-lg">
-                <img class="w-full mt-4" src="../img/monsterSlayer.png" alt="Sunset in the mountains">
+                <img class="w-full mt-4" src="../img/payoutlet.png" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
-                    <div class="font-bold  mb-2 text-3xl">Monster Vs Player Game</div>
+                    <div class="font-bold  mb-2 text-3xl">Payoutlet</div>
                     <p class="text-gray-700 text-base">
-                      A simple game
+                      A simple responsive website
                     </p>
-                    <h1>Tools Used:<small> HTML5,BOOTSTRAP,JS & VUE JS</small></h1>
+                    <h1>Tools Used:<small> HTML5,BOOTSTRAP,JS & REACT JS</small></h1>
                 </div>
                 <div class=" pt-4 pb-2">
-                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://monster-slay-game.vercel.app/">Show More</a></button></span>   
+                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://https://payoutlet.vercel.app//">Show More</a></button></span>   
                 </div>
             </div>  
         </div>
@@ -83,8 +83,6 @@
             </div>  
         </div>
     
-
-
 <!--Old Second Layout-->
         <!-- <div class="flex justify-around mt-12 text-white">
            

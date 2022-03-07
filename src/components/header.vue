@@ -31,6 +31,7 @@
       </b-navbar-brand>
 
       <b-navbar-toggle class="bg-green-dark" target="nav-collapse"></b-navbar-toggle>
+      
 
       <b-collapse id="nav-collapse" is-nav>
     
@@ -89,17 +90,17 @@ export default {
 <style scoped>
 
 .navItem {
-    font-family: Lobster;
+  font-family: Lobster;
 }
 .circleBrand {
-    border-radius: 50%;
-    width: 52px;
-    height: 50px;
-    display: block;
+  border-radius: 50%;
+  width: 52px;
+  height: 50px;
+  display: block;
 }
 
 .brand {
-    font-family: Lobster;
+  font-family: Lobster;
 }
 #nav-item:hover{
   /* border:1px solid white */
@@ -109,7 +110,6 @@ export default {
   #nav-item{
     margin-left: 8px;
   }
-  
   
 }
 </style>
