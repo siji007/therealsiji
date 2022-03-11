@@ -39,7 +39,7 @@
                     <p class="text-gray-700 text-base">
                       A simple responsive website
                     </p>
-                    <h1>Tools Used:<small> HTML5,BOOTSTRAP,JS & REACT JS</small></h1>
+                    <h1>Tools Used:<small> HTML5,BOOTSTRAP & REACT JS</small></h1>
                 </div>
                 <div class=" pt-4 pb-2">
                     <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://https://payoutlet.vercel.app//">Show More</a></button></span>   
@@ -51,8 +51,8 @@
 
         <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
-            <div class="projects max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
-                <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains">
+            <!-- <div class="projects max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
+                <img class="w-full mt-4" src="/img/card-top.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
                     <div class="font-bold  mb-2 text-3xl">Movie Rating App</div>
                     <p class="text-gray-700 text-base mb-3">
@@ -62,6 +62,22 @@
                 </div>
                 <div class=" pt-4 pb-2">
                     <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full">Show More</button></span>
+                    
+                </div>
+            </div> -->
+
+            <div class="projects max-w-sm rounded overflow-hidden col-lg-4 col-sm-12 col-md-12 bg-green-dark shadow-lg">
+                <img class="w-full mt-4" src="../img/monsterSlayer.png" alt="Sunset in the mountains">
+                <div class="px-6 py-4">
+                    <div class="font-bold  mb-2 text-3xl">Monster Slayer Game</div>
+                    <p class="text-gray-700 text-base mb-3">
+                        A simple game
+                    </p>
+                    <h1>Tools Used:<small> HTML5,BOOTSTRAP & VUEJS</small></h1>
+                </div>
+                <div class=" pt-4 pb-2">
+                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://monsterslay.netlify.app">Show More</a></button></span>
+                    
                     
                 </div>
             </div>
