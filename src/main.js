@@ -13,6 +13,9 @@ import "@/assets/styles/main.css";
 
 import { routes } from './routes';
 import VueRouter from 'vue-router'
+import LottieAnimation from "lottie-vuejs/src/LottieAnimation.vue"; // import lottie-vuejs
+ 
+Vue.use(LottieAnimation); // add lottie-animation to your global scope
 // import 'jquery'
 Vue.use(VueRouter);
 const router = new VueRouter({
