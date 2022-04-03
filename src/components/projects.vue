@@ -42,7 +42,7 @@
                     <h1>Tools Used:<small> HTML5,BOOTSTRAP & REACT JS</small></h1>
                 </div>
                 <div class=" pt-4 pb-2">
-                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://https://payoutlet.vercel.app//">Show More</a></button></span>   
+                    <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><button class="shadow-lg p-2 text-lg bg-green-dark text-white rounded-full"><a class="text-white" style="text-decoration:none;" href="https://payoutlet.vercel.app/">Show More</a></button></span>   
                 </div>
             </div>  
         </div>
