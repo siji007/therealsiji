@@ -2,11 +2,14 @@
     <div id="resume-div" class="d-flex justify-content-center">
         <!-- <h1 class="textResume">Resume</h1> -->
         <br>
-        <button id="resume-btn" class="btn px-2 py-1 mt-4 btn-success ">
+        <button id="resume-btn" class="btn px-2 py-1 mt-8 btn-success ">
             Download Resume
-            <span>
+           
+            <a href="https://drive.google.com/file/d/1QyVNqv1Mv4cnfQAdFI1mLMG8xp94UgPp/view?usp=share_link">
+             <span>
                 <img src="../img/download32px.png" alt="">
             </span>
+            </a>
         </button>
     </div>
 </template>
