@@ -14,7 +14,7 @@ import "@/assets/styles/main.css";
 import { routes } from './routes';
 import VueRouter from 'vue-router'
 import LottieAnimation from "lottie-vuejs/src/LottieAnimation.vue"; // import lottie-vuejs
- 
+{/* <script src="https://cdn.tailwindcss.com"></script> */}
 Vue.use(LottieAnimation); // add lottie-animation to your global scope
 // import 'jquery'
 Vue.use(VueRouter);
