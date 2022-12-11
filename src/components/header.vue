@@ -8,7 +8,7 @@
       <b-navbar-toggle class="bg-green-dark" target="nav-collapse"></b-navbar-toggle>
       <b-collapse id="nav-collapse" is-nav>
         <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto navItem">
+        <b-navbar-nav class="ml-auto navItem"> 
             <b-nav-item class="" id="nav-item">
               <router-link to="/" tag="li"><a  id="navigation-item" class=" nav-link text-white-50">ABOUT ME</a></router-link>
             </b-nav-item>
