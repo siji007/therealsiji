@@ -13,8 +13,6 @@
                     <h1>Random Facts About Numberssdasdas</h1>
                 </div>
             </div>
-
-            
         </div> -->
         <div id="overallRowContainer" class="row justify-content-center mt-12 text-white p-4">
            
