@@ -2,7 +2,7 @@
     <div class="container" style="">
         <div class="content p-2">
             <h1 class="text-center textContact text-white mt-8">Contact me</h1>
-            <div class="display d-flex mr-auto ml-auto justify-center " style="margin-top:20px;">
+            <div class="display d-flex justify-center " style="margin-top:20px;">
                 <div><a href="https://www.behance.net/therealsiji"><img  class="facebook" src="../img/behance-logo.png" alt=""></a></div>
             
                 <div>

@@ -5,7 +5,7 @@
             <h2 id="design-title" class="mt-2 mb-2">Case studies</h2>
             <div class="d-flex flex-wrap justify-content-between">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyCase.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Speedy Logistics</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxCaseStudy.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">SAX</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -32,7 +32,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/AuthWikiCaseStudy.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Auth Wiki</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/FarmNgCaseStudy.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Farm NG</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -63,7 +63,7 @@
             <h1 id="design-title" class="mt-10 ">UI Designs</h1>
             <div class="d-flex flex-wrap justify-content-between mt-2">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyUI.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Speedy Logistics</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -82,7 +82,7 @@
                         <p id="project-description" class="text-gray-700 text-base px-3">
                             Description: A website for donating to flood victims
                         </p>
-                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text">Figma</small></h1>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
                     </div>
                     <div class=" pb-2">
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158350197/Peg-Flood-Donation-Website" style="text-decoration:none;">Read More</a></button></span>    
@@ -110,7 +110,7 @@
                         <p id="project-description" class="text-gray-700 text-base px-3">
                             Description: API testing website for users
                         </p>
-                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text">Figma</small></h1>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
                     </div>
                     <div class=" pb-2">
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158415957/Axe-Website" style="text-decoration:none;">Read More</a></button></span>    
@@ -121,7 +121,7 @@
             <!--Send row of ui design-->
             <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/NFTUI.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">NFT Website</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -135,7 +135,7 @@
                 </div>
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/KoloWallets.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/KoloUI.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Kolo Bank App</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -148,7 +148,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxUI.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">SAX Mobile App</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -161,7 +161,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Speedycasestudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpikeUI.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Spike Website</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -278,7 +278,7 @@ import gsap from 'gsap'
 export default {
     mounted(){
         gsap.from('.projects',{
-            duration:1,
+            duration:0.5,
             opacity:0,
             ease:'power',
             stagger:{
