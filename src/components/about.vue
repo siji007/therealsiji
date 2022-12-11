@@ -1,5 +1,5 @@
 <template>
-    <div class="content-container m-4 px-8">
+    <div class="content-container m-4 px-4">
         <div class="flex justify-between">
             <div class="intro ">
                 <h1 class=" text-green-dark " id="headerIntro" style="">Hi,I'm Oluwasijibomi Olaifa.</h1>
@@ -16,11 +16,11 @@
             </div>
    
         </div>
-        <div id="footer">
+        <!-- <div id="footer">
             <footer class="p-2">
                 <h1 id="copyright" class="text-center text-white text-2xl">&copy;TRS, 2022.</h1>
             </footer>
-        </div>
+        </div> -->
     </div>
 </template>
 <style scoped>
