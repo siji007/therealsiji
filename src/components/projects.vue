@@ -89,7 +89,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/E-Landing Page.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/RaysUI.png" alt="Sunset in the mountains">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Rays Academy Landing Page</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
