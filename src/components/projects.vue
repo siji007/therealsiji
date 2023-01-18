@@ -4,6 +4,21 @@
             <h1 id="projectHeading" class="mt-2 ">Projects</h1>
             <h2 id="design-title" class="mt-2 mb-2">Case studies</h2>
             <div class="d-flex flex-wrap justify-content-between">
+
+                <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Fit_friend.png" alt="Sunset in the mountains">
+                    <div class="py-2">
+                        <div id="firstCaption" class="font-bold px-3">Fit Friend</div>
+                        <p id="project-description" class="text-gray-700 text-base px-3">
+                            Description: A case study on how to connect with friends to achieve your fitness goal.
+                        </p>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma, Figjam & Google forms</small></h1>
+                    </div>
+                    <div class=" pb-2">
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/161257727/Fit-Friend" style="text-decoration:none;">Read More</a></button></span>    
+                    </div>
+                </div>
+
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyCase.png" alt="Sunset in the mountains">
                     <div class="py-2">
@@ -44,6 +59,23 @@
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/155648363/Authentication-Library-Web-Responsive-UXUI-Case-Study" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
+                <!-- <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/FarmNgCaseStudy.png" alt="Sunset in the mountains">
+                    <div class="py-2">
+                        <div id="firstCaption" class="font-bold px-3">Farm NG</div>
+                        <p id="project-description" class="text-gray-700 text-base px-3">
+                            Description: A case study on a mobile app that offers agricultural services
+                        </p>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma, Figjam & Google forms</small></h1>
+                    </div>
+                    <div class=" pb-2">
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/144080309/Farm-NG-Case-Study" style="text-decoration:none;">Read More</a></button></span>    
+                    </div>
+                </div> -->
+            </div> 
+
+            <!--Send row of case study design-->
+            <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/FarmNgCaseStudy.png" alt="Sunset in the mountains">
                     <div class="py-2">
@@ -57,7 +89,7 @@
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/144080309/Farm-NG-Case-Study" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
-            </div> 
+            </div>
 
             <!--UI-->
             <h1 id="design-title" class="mt-10 ">UI Designs</h1>
