@@ -6,7 +6,7 @@
             <div class="d-flex flex-wrap justify-content-between">
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Fit_friend.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Fit_friend.png" alt="Fit friend image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Fit Friend</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -20,7 +20,7 @@
                 </div>
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyCase.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyCase.png" alt="Speedy logistics image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Speedy Logistics</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -34,7 +34,7 @@
                 </div>
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxCaseStudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxCaseStudy.png" alt="Sax image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">SAX</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -47,7 +47,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/AuthWikiCaseStudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/AuthWikiCaseStudy.png" alt="Alt wiki image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Auth Wiki</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -59,25 +59,13 @@
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/155648363/Authentication-Library-Web-Responsive-UXUI-Case-Study" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
-                <!-- <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/FarmNgCaseStudy.png" alt="Sunset in the mountains">
-                    <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">Farm NG</div>
-                        <p id="project-description" class="text-gray-700 text-base px-3">
-                            Description: A case study on a mobile app that offers agricultural services
-                        </p>
-                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma, Figjam & Google forms</small></h1>
-                    </div>
-                    <div class=" pb-2">
-                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/144080309/Farm-NG-Case-Study" style="text-decoration:none;">Read More</a></button></span>    
-                    </div>
-                </div> -->
+               
             </div> 
 
             <!--Send row of case study design-->
             <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg " id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/FarmNgCaseStudy.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/FarmNgCaseStudy.png" alt="FarmNG image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Farm NG</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -95,7 +83,7 @@
             <h1 id="design-title" class="mt-10 ">UI Designs</h1>
             <div class="d-flex flex-wrap justify-content-between mt-2">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyUI.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyUI.png" alt="Speedy Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Speedy Logistics</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -108,7 +96,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Peg1.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Peg1.png" alt="Peg Website Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Peg Website</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -121,7 +109,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/RaysUI.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/RaysUI.png" alt="Rays Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Rays Academy Landing Page</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -136,7 +124,7 @@
                 
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Axe Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Axe Landing Page</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -153,7 +141,7 @@
             <!--Send row of ui design-->
             <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/NFTUI.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/NFTUI.png" alt="NFT Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">NFT Website</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -167,7 +155,7 @@
                 </div>
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/KoloUI.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/KoloUI.png" alt="Kolo Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Kolo Bank App</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -180,7 +168,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxUI.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxUI.png" alt="Sax Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">SAX Mobile App</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
@@ -193,7 +181,7 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpikeUI.png" alt="Sunset in the mountains">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpikeUI.png" alt="Spike Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Spike Website</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
