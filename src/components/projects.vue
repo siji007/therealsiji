@@ -124,16 +124,16 @@
                 
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Axe Image">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/veezypic.png" alt="Axe Image">
                     <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">Axe Landing Page</div>
+                        <div id="firstCaption" class="font-bold px-3">Veezy Fintech Landing Page</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
-                            Description: API testing website for users
+                            Description: Fintech website that allow users to perform transactions seemlessly.
                         </p>
                         <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
                     </div>
                     <div class=" pb-2">
-                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158415957/Axe-Website" style="text-decoration:none;">Read More</a></button></span>    
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/162213291/Veezy-Fintech-Landing-Page" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
             </div> 
@@ -195,6 +195,25 @@
                 </div>
             </div> 
             
+
+            <!--Third row of ui design-->
+            <div class="d-flex flex-wrap justify-content-between mt-4">
+                <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Axe Image">
+                    <div class="py-2">
+                        <div id="firstCaption" class="font-bold px-3">Axe Landing Page</div>
+                        <p id="project-description" class="text-gray-700 text-base px-3">
+                            Description: API testing website for users
+                        </p>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
+                    </div>
+                    <div class=" pb-2">
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158415957/Axe-Website" style="text-decoration:none;">Read More</a></button></span>    
+                    </div>
+                </div>
+
+            </div> 
+
 
             <div id="footer">
                 <footer class="p-4">
