@@ -83,6 +83,21 @@
             <h1 id="design-title" class="mt-10 ">UI Designs</h1>
             <div class="d-flex flex-wrap justify-content-between mt-2">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/zupaintro.png" alt="Spike Image">
+                    <div class="py-2">
+                        <div id="firstCaption" class="font-bold px-3">Zupa Fintech Dashboard</div>
+                        <p id="project-description" class="text-gray-700 text-base px-3">
+                            Description: A dashboard that provides users with a comprehensive view of their financial data and activities.
+                        </p>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text">Figma</small></h1>
+                    </div>
+                    <div class=" pb-2">
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/164695843/Zupa-Fintech-Dashboard?" style="text-decoration:none;">Read More</a></button></span>    
+                    </div>
+                </div>
+
+
+                <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpeedyUI.png" alt="Speedy Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Speedy Logistics</div>
@@ -123,6 +138,11 @@
                 </div>
                 
 
+                
+            </div> 
+
+            <!--Send row of ui design-->
+            <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/veezypic.png" alt="Axe Image">
                     <div class="py-2">
@@ -136,10 +156,7 @@
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/162213291/Veezy-Fintech-Landing-Page" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
-            </div> 
 
-            <!--Send row of ui design-->
-            <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/NFTUI.png" alt="NFT Image">
                     <div class="py-2">
@@ -167,19 +184,7 @@
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/146528157/Kolo-Bank" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
-                <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxUI.png" alt="Sax Image">
-                    <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">SAX Mobile App</div>
-                        <p id="project-description" class="text-gray-700 text-base px-3">
-                            Description: Mobile app where you can stream different sports events
-                        </p>
-                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text">Figma</small></h1>
-                    </div>
-                    <div class=" pb-2">
-                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/151625195/SAX" style="text-decoration:none;">Read More</a></button></span>    
-                    </div>
-                </div>
+                
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SpikeUI.png" alt="Spike Image">
                     <div class="py-2">
@@ -193,11 +198,29 @@
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/145808609/Spike-Project-Management-Website" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
+
+                
+                
             </div> 
             
 
             <!--Third row of ui design-->
             <div class="d-flex flex-wrap justify-content-between mt-4">
+                <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxUI.png" alt="Sax Image">
+                    <div class="py-2">
+                        <div id="firstCaption" class="font-bold px-3">SAX Mobile App</div>
+                        <p id="project-description" class="text-gray-700 text-base px-3">
+                            Description: Mobile app where you can stream different sports events
+                        </p>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text">Figma</small></h1>
+                    </div>
+                    <div class=" pb-2">
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/151625195/SAX" style="text-decoration:none;">Read More</a></button></span>    
+                    </div>
+                </div>
+
+
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Axe Image">
                     <div class="py-2">
