@@ -221,7 +221,7 @@
                 </div>
 
 
-                <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
+                <!-- <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Axe Image">
                     <div class="py-2">
                         <div id="firstCaption" class="font-bold px-3">Axe Landing Page</div>
@@ -233,7 +233,7 @@
                     <div class=" pb-2">
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158415957/Axe-Website" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
-                </div>
+                </div> -->
 
             </div> 
 
