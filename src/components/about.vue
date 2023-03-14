@@ -12,7 +12,6 @@
 
                 <div id="imageDiv" class="">
                 <img src="../img/profileSiji.jpeg" id="introImage" class="lg:float-right xl:float-right">
-                
             </div>
    
         </div>

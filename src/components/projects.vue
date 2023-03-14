@@ -89,7 +89,7 @@
                         <p id="project-description" class="text-gray-700 text-base px-3">
                             Description: A dashboard that provides users with a comprehensive view of their financial data and activities.
                         </p>
-                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text">Figma</small></h1>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
                     </div>
                     <div class=" pb-2">
                         <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/164695843/Zupa-Fintech-Dashboard?" style="text-decoration:none;">Read More</a></button></span>    
@@ -111,22 +111,22 @@
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Peg1.png" alt="Peg Website Image">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Zupa landing preview.png" alt="Zupa Image">
                     <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">Peg Website</div>
+                        <div id="firstCaption" class="font-bold px-3">Zupa Fintech Landing Page</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
-                            Description: A website for donating to flood victims
+                            Description: A fintech landing page that shows what zupa offers to it users.
                         </p>
                         <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
                     </div>
                     <div class=" pb-2">
-                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158350197/Peg-Flood-Donation-Website" style="text-decoration:none;">Read More</a></button></span>    
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/165999245/Zupa-Landing-Page" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/RaysUI.png" alt="Rays Image">
                     <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">Rays Academy Landing Page</div>
+                        <div id="firstCaption" class="font-bold px-3">Rays Landing Page</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
                             Description: E-learning website where students can learn tech skills
                         </p>
@@ -144,18 +144,19 @@
             <!--Send row of ui design-->
             <div class="d-flex flex-wrap justify-content-between mt-4">
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/veezypic.png" alt="Axe Image">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Peg1.png" alt="Peg Website Image">
                     <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">Veezy Fintech Landing Page</div>
+                        <div id="firstCaption" class="font-bold px-3">Peg Website</div>
                         <p id="project-description" class="text-gray-700 text-base px-3">
-                            Description: Fintech website that allow users to perform transactions seemlessly.
+                            Description: A website for donating to flood victims
                         </p>
                         <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
                     </div>
                     <div class=" pb-2">
-                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/162213291/Veezy-Fintech-Landing-Page" style="text-decoration:none;">Read More</a></button></span>    
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158350197/Peg-Flood-Donation-Website" style="text-decoration:none;">Read More</a></button></span>    
                     </div>
                 </div>
+                
 
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/NFTUI.png" alt="NFT Image">
@@ -203,9 +204,23 @@
                 
             </div> 
             
-
             <!--Third row of ui design-->
             <div class="d-flex flex-wrap justify-content-between mt-4">
+                <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
+                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/veezypic.png" alt="Axe Image">
+                    <div class="py-2">
+                        <div id="firstCaption" class="font-bold px-3">Veezy Fintech Landing Page</div>
+                        <p id="project-description" class="text-gray-700 text-base px-3">
+                            Description: Fintech website that allow users to perform transactions seemlessly.
+                        </p>
+                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
+                    </div>
+                    <div class=" pb-2">
+                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/162213291/Veezy-Fintech-Landing-Page" style="text-decoration:none;">Read More</a></button></span>    
+                    </div>
+                </div>
+
+
                 <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
                     <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/SaxUI.png" alt="Sax Image">
                     <div class="py-2">
@@ -220,20 +235,9 @@
                     </div>
                 </div>
 
+                
 
-                <!-- <div class="max-w-sm rounded projects bg-green-dark shadow-lg" id="contentframe">
-                    <img id="intro-image" class="w-full rounded-l rounded-r" src="../img/Axe Intro Mock up.png" alt="Axe Image">
-                    <div class="py-2">
-                        <div id="firstCaption" class="font-bold px-3">Axe Landing Page</div>
-                        <p id="project-description" class="text-gray-700 text-base px-3">
-                            Description: API testing website for users
-                        </p>
-                        <h1 id="tools-used-header" class="px-3 mt-2">Tools Used:<small id="tools-used-text"> Figma</small></h1>
-                    </div>
-                    <div class=" pb-2">
-                        <span class="inline-block bg-gray-200  rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-2"><button id="show-more-btn" class="shadow-lg py-2 px-3 text-lg bg-green-dark text-white rounded-full"><a class="text-white" href="https://www.behance.net/gallery/158415957/Axe-Website" style="text-decoration:none;">Read More</a></button></span>    
-                    </div>
-                </div> -->
+                
 
             </div> 
 
@@ -246,7 +250,6 @@
         </div>
     </div>
 </template>
-
 
 <style scoped>
 @import url(https://fonts.cdnfonts.com/css/clash-display);
